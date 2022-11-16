@@ -44,3 +44,14 @@ body {
     background-color: #07689F;
     height: 200px;
 }
+
+.searchbusbtn {
+    color: white;
+    background-color: #113F67;
+}
+
+.searchbusbtn:hover {
+    color: #113F67;
+    background-color: white;
+    border-color: #113F67;
+}
