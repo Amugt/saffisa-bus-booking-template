@@ -1,64 +1,64 @@
-    body {
-        margin: 0;
-        background-color: white;
-    }
-    
-    .navbar {
-        color: black;
-    }
-    
-    .hero {
-        background-color: white;
-    }
-    
-    .navbar-toggler-icon {
-        background-color: 07689F;
-    }
-    
-    .registerbtn {
-        color: #fff;
-        background-color: #07689F;
-        border-color: #07689F;
-    }
-    
-    .registerbtn:hover {
-        color: #fff;
-        background-color: #07689F;
-        border-color: #07689F;
-    }
-    
-    .loginbtn {
-        color: #07689F;
-        background-color: transparent;
-        background-image: none;
-        border-color: #07689F;
-    }
-    
-    .loginbtn:hover {
-        color: #fff;
-        background-color: #07689F;
-        border-color: #07689F;
-    }
-    
-    .search_bus {
-        background-color: #07689F;
-        height: 200px;
-    }
-    
-    .searchbusbtn {
-        color: white;
-        background-color: #113F67;
-    }
-    
-    .searchbusbtn:hover {
-        color: #113F67;
-        background-color: white;
-        border-color: #113F67;
-    }
-    
-    .subroutes {
-        background-color: #D9D9D9;
-        margin-left: 20px;
-        margin-bottom: 20px;
-        height: 60px;
-    }
+body {
+    margin: 0;
+    background-color: white;
+}
+
+.navbar {
+    color: black;
+}
+
+.hero {
+    background-color: white;
+}
+
+.navbar-toggler-icon {
+    background-color: 07689F;
+}
+
+.registerbtn {
+    color: #fff;
+    background-color: #07689F;
+    border-color: #07689F;
+}
+
+.registerbtn:hover {
+    color: #fff;
+    background-color: #07689F;
+    border-color: #07689F;
+}
+
+.loginbtn {
+    color: #07689F;
+    background-color: transparent;
+    background-image: none;
+    border-color: #07689F;
+}
+
+.loginbtn:hover {
+    color: #fff;
+    background-color: #07689F;
+    border-color: #07689F;
+}
+
+.search_bus {
+    background-color: #07689F;
+    height: 200px;
+}
+
+.searchbusbtn {
+    color: white;
+    background-color: #113F67;
+}
+
+.searchbusbtn:hover {
+    color: #113F67;
+    background-color: white;
+    border-color: #113F67;
+}
+
+.subroutes {
+    background-color: #D9D9D9;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    height: 60px;
+}
